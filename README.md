@@ -1,4 +1,4 @@
-# Tensor2Tensor2019
+# Tensor2Tensor20190831
 
 [![PyPI
 version](https://badge.fury.io/py/tensor2tensor.svg)](https://badge.fury.io/py/tensor2tensor)
